@@ -1,6 +1,6 @@
 ## Oii 👋, I'm Yan 
 
-- 🔭 I’m currently working on STG - Solucoes Tecnologicas em Gestao
+- 🔭 I’m currently working on Mobile Development in STG - Solucoes Tecnologicas em Gestao 
 
 - 🌱 I’m currently learning ReactJS, React Native, Expo
 
