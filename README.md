@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Mobile Development in STG - Solucoes Tecnologicas em Gestao 
 
-- 🌱 I’m currently learning ReactJS, React Native, Expo
+- 🌱 I’m currently learning and working with ReactJS, React Native, Expo
 
 - 📫 How to reach me contato@yandev.com.br
 
