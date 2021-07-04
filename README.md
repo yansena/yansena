@@ -10,4 +10,4 @@
 
 ## Github Stats
 ----------------------------------------------------------------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yansena=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yansena)](https://github.com/yansena/github-readme-stats)
