@@ -11,4 +11,5 @@
 ## Github Stats
 ----------------------------------------------------------------
 [![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yansena)](https://github.com/yansena/github-readme-stats)
-![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yansena&hide=contribs,prs)
+![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yansena&show_icons=true&theme=radical)
+
