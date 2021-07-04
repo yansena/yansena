@@ -11,6 +11,6 @@
 ## Github Stats
 ----------------------------------------------------------------
 ![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yansena&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yansena&layout=compact)](https://github.com/yansena/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yansena&layout=compact&theme=radical)](https://github.com/yansena/github-readme-stats)
 
 
