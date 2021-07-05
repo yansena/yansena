@@ -1,4 +1,4 @@
-# Oii 👋, I'm Yan 🚀
+# Hi 👋, I'm Yan 🚀
 
 
 - 🔭 I’m currently working on Mobile Development in STG - Solucoes Tecnologicas em Gestao 
