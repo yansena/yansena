@@ -9,6 +9,8 @@
 
 - 📫 How to reach me contato@yandev.com.br
 
+- 🚀 Ignite's Rocketseat student in React Native trail
+
 - ⚡ Fun fact: Mutch coffe its the secret for good code
 
 ## Stacks 🔨
