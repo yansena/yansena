@@ -3,7 +3,7 @@
 
 <img src="https://github.com/yansena/yansena/blob/main/undraw_Mobile_application_mr4r-removebg-preview.png"  min-width="400px" max-width="400px" width="400px" align="right" alt="mobile yansena">
 
-- 🔭 I’m currently working on Mobile Development in Meta 
+- 🔭 I’m currently working on Mobile Development in Capgemini / Banco do Brasil 
 
 - 🌱 I’m currently learning and working with React Native, Expo
 
