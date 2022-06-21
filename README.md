@@ -1,4 +1,4 @@
-# Hi<img width="10px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">, I'm Yan 🚀
+# Hi ✋🏻, I'm Yan 🚀
 
 
 <img src="https://github.com/yansena/yansena/blob/main/undraw_Mobile_application_mr4r-removebg-preview.png"  min-width="400px" max-width="400px" width="400px" align="right" alt="mobile yansena">
