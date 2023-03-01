@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Mobile Development in Yandeh
 
-- 🌱 I’m currently learning and working with React Native, Expo
+- 🌱 I’m currently working with React Native.
 
 - 📫 How to reach me contato@yandev.com.br
 
