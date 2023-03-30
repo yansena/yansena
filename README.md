@@ -3,13 +3,13 @@
 
 <img src="https://github.com/yansena/yansena/blob/main/undraw_Mobile_application_mr4r-removebg-preview.png"  min-width="400px" max-width="400px" width="400px" align="right" alt="mobile yansena">
 
-- 🔭 I’m currently working on Mobile Development in Yandeh
+- 🔭 I’m currently open to work.
 
-- 🌱 I’m currently working with React Native.
+- 🌱 I’m currently working with React Native / ReactJS and NodeJS.
 
 - 📫 How to reach me contato@yandev.com.br
 
-- 🚀 Ignite's Rocketseat student in React Native trail
+- 🚀 Ignite's Rocketseat bootcamper.
 
 - ⚡ Fun fact: Mutch coffe its the secret for good code
 
