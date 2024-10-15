@@ -1,9 +1,9 @@
-# Hi ✋🏻, I'm Yan 🚀
+# Hi ✋🏻, I'm Yan 🧑🏻‍💻
 
 
 <img src="https://github.com/yansena/yansena/blob/main/undraw_Mobile_application_mr4r-removebg-preview.png"  min-width="400px" max-width="400px" width="400px" align="right" alt="mobile yansena">
 
-- 🔭 I’m currently open to work.
+- 🔭 I’m currently open to Stone Co.
 
 - 🌱 I’m currently working with React Native / ReactJS and NodeJS.
 
